@@ -12,24 +12,24 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['AHOKA-MD']
-global.namaowner = ['KRIZYNOFC']
-global.owner = ['62895327934887']
-global.premium = ['62895327934887']
-global.packname = 'AHOKA-MD'
+global.namabot = ['ArullBotz']
+global.namaowner = ['Arull']
+global.owner = ['6285822347348']
+global.premium = ['6285822347348']
+global.packname = 'ArullBotz'
 global.author = 'WhatsApp•Bot MD'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'DoaMu Terkabulkan',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Jadikan Bot Admin Terlebih Dahulu!',
-    owner: 'Khusus Owner Bot',
-    group: 'Itu Khusus Grup Bre...!',
+    success: '*Done*',
+    admin: 'Fitur Khusus *Admin Group!*',
+    botAdmin: 'Jadikan Bot Sebagai *Admin* Terlebih Dahulu!',
+    owner: 'Khusus *Owner Bot*',
+    group: 'Itu Khusus *Grup* Bre...!',
     private: 'Cuma Bisa Chat Pribadi Bre...',
-    bot: 'Khusus Nomor Bot',
-    wait: 'Tunggu Sejam...',
+    bot: 'Khusus Nomor *Bot*',
+    wait: '*Wait....*',
     endLimit: 'Limit Harian Sudah Habis, Limit Akan Direset Besok',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
